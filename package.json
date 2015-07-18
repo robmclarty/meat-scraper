@@ -1,0 +1,24 @@
+{
+  "name": "meat-scraper",
+  "version": "0.0.0",
+  "description": "Scrape the Diablo 3 website for item (and other) data.",
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:robmclarty/meat-scraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "diablo",
+    "blizzard",
+    "data"
+  ],
+  "author": "Rob McLarty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robmclarty/meat-scraper/issues"
+  }
+}
