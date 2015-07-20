@@ -20,5 +20,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/robmclarty/meat-scraper/issues"
+  },
+  "dependencies": {
+    "noodlejs": "~0.3.2",
+    "express": "~4.13.1"
   }
 }
